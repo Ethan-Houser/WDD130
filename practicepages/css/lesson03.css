@@ -1,0 +1,9 @@
+.bluetext {
+    color: rgb(0, 81, 255);
+}
+
+#wednesdayText {
+    font-size: 300%;
+    color: blueviolet;
+    font: italic;
+}
