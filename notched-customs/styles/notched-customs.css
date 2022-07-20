@@ -307,14 +307,17 @@ main {
     width: 100%;
     opacity: 87%;
     z-index: 0;
+    border-radius: 10px;
 }
 .pulled-apart-card {
     grid-column: 7/12;
     grid-row: 4/6;
     padding: 0px 40px;
+
 }
 .pulled-apart-card img {
     width: 100%;
+    border-radius: 10px;
 }
 #parts-button-1 {
     grid-column: 2/7;
